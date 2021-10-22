@@ -16,5 +16,5 @@ int main()
         cout << setw(10) << x << setw(10) << y << endl;
         x += h;
     }
-    //Видалено один цикл
+    //one cycle is deleted
 }
